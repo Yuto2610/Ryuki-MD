@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
+global.sig = 'https://instagram.com/ya_to2610'
 global.sgh = 'https://cekilgans.github.io'
-global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sgc = '_'
+global.sdc = '_'
+global.snh = '_'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
+global.pdana = '628970706704'
+global.povo = '_'
+global.pgopay = '_'
+global.ppulsa = '628970706704'
+global.ppulsa2 = '_'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6285172026103'
+global.nomorown = '628970706704'
+global.namebot = 'NoaTakt'
+global.nameown = 'Iman'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['628970706704', 'Sewa Bot', true],
+  ['628970706704', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm = '                「 Noar-XD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Takt-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Iman-XD '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
-global.author = '                「 Cekil - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Iman`
+global.author = '                「 Iman - Xd  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = 'Noar Takt'
+global.stickauth = `By Iman`
 
 global.multiplier = 38 // The higher, The harder levelup
 
