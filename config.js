@@ -52,24 +52,24 @@ global.sdc = '_'
 global.snh = '_'
 
 /*============== PAYMENT ==============*/
-global.pdana = '628970706704'
+global.pdana = '08970706704'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '628970706704'
-global.ppulsa2 = '_'
+global.ppulsa = '08970706704'
+global.ppulsa2 = ''
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285172026103'
 global.nomorown = '628970706704'
-global.namebot = 'NoaTakt'
+global.namebot = 'NoarTakt'
 global.nameown = 'Iman'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628970706704', 'Sewa Bot', true],
-  ['628970706704', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['_', 'Sewa Bot', true],
+  ['_', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Noar-XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Takt-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Iman-XD '
+global.wm = '                「 Cekil-XD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Cekil-XD '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Iman`
-global.author = '                「 Iman - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
+global.author = '                「 Cekil - Xd  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Noar Takt'
-global.stickauth = `By Iman`
+global.stickpack = 'Cekil-XD'
+global.stickauth = `By ©CekilXD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
