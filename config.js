@@ -60,16 +60,16 @@ global.ppulsa2 = '088991489057'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6285172026103'
+global.nomorown = '628970706704'
+global.namebot = 'NoarTakt'
+global.nameown = 'Iman'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['628970706704', 'Sewa Bot', true],
+  ['628970706704', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
