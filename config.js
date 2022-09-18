@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ya_to2610'
+global.sig = 'https://instagram.com/cekilgans'
 global.sgh = 'https://cekilgans.github.io'
-global.sgc = '_'
-global.sdc = '_'
-global.snh = '_'
+global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '08970706704'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '08970706704'
-global.ppulsa2 = ''
+global.pdana = '089515023118'
+global.povo = '089515023118'
+global.pgopay = '089515023118'
+global.ppulsa = '0895413767627'
+global.ppulsa2 = '088991489057'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285172026103'
-global.nomorown = '628970706704'
-global.namebot = 'NoarTakt'
-global.nameown = 'Iman'
+global.nomorbot = '62895413767627'
+global.nomorown = '17242332244'
+global.namebot = 'CekilXD'
+global.nameown = 'CekilXD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['_', 'Sewa Bot', true],
-  ['_', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['17242332244', 'Sewa Bot', true],
+  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
